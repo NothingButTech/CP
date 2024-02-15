@@ -1,5 +1,15 @@
- # 1. syllabus for jan 20 - jan 26  <br>
-**bubble sort , selection sort , insertion sort , quick sort , merge sort <br>**
-(theory and syntax practices) <br>
-link : [resources](https://www.youtube.com/watch?v=YJeoQBevNVo&list=PLDzeHZWIZsTp4pb_WBRahP1tnipLuX9qM).<br>
-(video no 16, 17 , 18 , 35 , 36)<br>
+### February (first month)
+1. C++ basic
+2.  Stl
+3. Math 
+4. Pointer 
+5. Array
+6. Recursion
+7. HashTables
+LINK([﻿www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz) )Videos 12.
+
+Question List([﻿takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) )
+
+
+
+
